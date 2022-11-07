@@ -320,7 +320,7 @@ def parse_main():
     parser.add_argument(
         "deposition",
         help="Name of the Zenodo deposition. Supported: censusdp1tract, "
-        "eia860, eia861, eia923, eia_bulk_elec, epacems, epacamd_eia, "
+        "eia860, eia861, eia923, eia_bulk_elec, eiawater, epacems, epacamd_eia, "
         "ferc1, ferc2, ferc714, eia860m",
     )
     return parser.parse_args()

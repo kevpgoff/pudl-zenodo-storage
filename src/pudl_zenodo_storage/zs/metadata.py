@@ -8,6 +8,7 @@ UUIDS: dict[str, str] = {
     "eia861": "70999ef2-50e9-47ae-a4f6-5d69e6ff98d1",
     "eia923": "53831f63-fa82-475a-bef4-5b5f0b7c41a4",
     "eia_bulk_elec": "c288a5fe-1ff5-442d-a48e-7d56395bf72d",
+    "eiawater": "fc47344b-2134-4203-9099-a691255acf9e",
     "epacamd_eia": "40696588-d6ee-11ec-abb9-34363bce6e4c",
     "epacems": "8bd99e7d-b11a-4bd1-8af0-bccf984dcc43",
     "ferc1": "d3d91c87-c595-49d5-a7f3-e5f5669c8306",

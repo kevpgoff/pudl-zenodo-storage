@@ -18,7 +18,7 @@ class TestZenodoStorage:
 
     """
 
-    zs = ZenodoStorage(key=os.environ["ZENODO_SANDBOX_TOKEN_PUBLISH"], testing=True)
+    zs = ZenodoStorage(key=os.environ["ZENODO_SANDBOX_TOKEN_UPLOAD"], testing=True)
     test_deposition = {
         "title": "PUDL Test",
         "upload_type": "dataset",
